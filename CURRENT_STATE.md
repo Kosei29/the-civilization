@@ -1,7 +1,7 @@
 # Current State
 
 ## Date
-**Year 1 — Day 45**
+**Year 1 — Day 72**
 
 ## Civilization
 
@@ -13,38 +13,40 @@
 ## Territory
 
 **Provisional territory:** ~4 km²
-**Estimated perimeter:** ~8 km
-**Surveyed area:** 0 km²
+**Estimated perimeter:** ~8 km (provisional)
+**Surveyed area:** ~2.1 km²
 **Cultivated/cleared land:** ~0.6 km²
-**Territory status:** Unsurveyed founding territory
+**Territory status:** Partially surveyed
 
 ## Population
 
 **Population:** 100
 **Farmers:** 65
-**Workers:** 15
-**Soldiers:** 10
-**Other:** 10
+**Workers:** 10
+**Soldiers:** 5
+**Explorers:** 5
+**Other:** 15
 **Known settlements:** 1 founding settlement
 **Housing:** 24 basic dwellings plus household livestock pens
 **Notable people:** None recorded
 
 ## Economy
 
-**Treasury:** 690 units
-**Food reserves:** 820 units
-**Wood reserves:** 350 units
-**Stone reserves:** 190 units
+**Treasury:** 620 units
+**Food reserves:** 780 units
+**Wood reserves:** 90 units
+**Stone reserves:** 170 units
 **Metal reserves:** 45 units
-**Water reserves:** 1,350 units
-**Known industries:** Subsistence agriculture, construction, emerging livestock husbandry
+**Water reserves:** 1,050 units
+**Known industries:** Subsistence agriculture, construction, emerging livestock husbandry, timber working
 **Trade:** None established
 **Debt:** 0
 
 ## Military
 
 **Standing forces:** 10
-**Military organization:** Basic founding militia
+**Military organization:** Basic founding militia; 5 currently assigned to exploration
+**Active defenders at settlement:** 5 soldiers
 **Wars:** None
 
 ## Technology & Knowledge
@@ -52,13 +54,14 @@
 **Technological era:** Foundational
 **Known major discoveries:** None recorded
 **Agricultural knowledge:** Basic land cultivation, planting, animal selection, and early domestication practices
+**Construction knowledge:** Timber palisade/log fencing
 
 ## Society & Culture
 
 **Religion / belief systems:** Not yet established
 **Languages:** Not yet established
 **Social structure:** Early village community organized around households and shared agricultural work
-**Happiness / stability:** 76 / 100
+**Happiness / stability:** 74 / 100
 
 ## Agriculture & Livestock
 
@@ -66,23 +69,33 @@
 **First cultivated fields:** Planted; first harvest pending
 **Livestock housing:** Household-adjacent pens constructed
 **Domesticated livestock:** Initial breeding stock established
-**Wild game:** Hunting parties have identified and captured suitable animals for meat and breeding
+**Wild game:** Hunting and animal observation continue
 **Current strategy:** Gradually replace some hunting with dependable household livestock while maintaining agriculture
+
+## Defense & Infrastructure
+
+**Village defensive works:** Log fence under construction
+**Fence purpose:** Protect the inhabited village while half of the military is away exploring
+**Fence coverage:** Approximately 0.7 km around the most densely occupied part of the settlement; not a full territorial border
+**Construction workforce:** 30 villagers, men and women, temporarily assigned to fence construction
+**Construction status:** Approximately 80% complete by Day 72
+**Defensive limitation:** Five soldiers remain in the village; the fence improves security but does not make the settlement impregnable
 
 ## Geography & Environment
 
-The surrounding territory remains formally unsurveyed. The civilization's provisional territory is approximately 4 km² with an estimated 8 km perimeter. Only a small portion has been deliberately transformed for agriculture and settlement.
+The explorers have surveyed approximately 2.1 km² of the surrounding area. The wider territory remains only partially known. No organized external power has yet been confirmed.
 
 ## Government Priorities
 
-No formal government has been established. Current communal priority is food security, permanent housing, animal husbandry, and reducing unnecessary daily labor so households have more time for family life.
+No formal government has been established. Current communal priorities are food security, permanent housing, animal husbandry, exploration, and protecting the village while the expedition is away.
 
 ## Active Situations
 
+- Five explorers are away surveying the surrounding territory.
+- A log fence is being completed around the core village.
 - First livestock breeding program underway.
 - First agricultural harvest approaching.
-- Wild animal populations around the settlement are being observed to avoid overhunting.
-- Household labor patterns are shifting toward shorter routine work and more family time.
+- The village is temporarily relying on only five active soldiers for immediate defense.
 
 ## Recent Events
 
@@ -93,7 +106,10 @@ No formal government has been established. Current communal priority is food sec
 - Days 23–38: Household livestock pens were constructed beside dwellings.
 - Days 25–41: Hunting parties searched for animals suitable for both meat and breeding.
 - Days 32–44: Initial breeding stock was brought into managed household pens.
-- Day 45: The community has begun shifting toward a mixed farming-and-livestock economy intended to improve food security and reduce daily subsistence pressure.
+- Day 45: The community began shifting toward a mixed farming-and-livestock economy.
+- Day 60: Five militia members departed as the first organized exploration party.
+- Days 61–72: Thirty villagers were assigned to construct a log fence around the core settlement while the explorers were away.
+- Day 72: The defensive fence is approximately 80% complete.
 
 ## Simulation Notes
 
