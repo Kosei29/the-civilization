@@ -1,7 +1,7 @@
 # Current State
 
 ## Date
-**Year 1 — Day 88**
+**Year 1 — Day 105**
 
 ## Civilization
 
@@ -20,24 +20,25 @@
 
 ## Population
 
-**Population:** 100
+**Population:** 102
 **Farmers:** 60
 **Workers:** 10
 **Soldiers:** 5
 **Explorers:** 5
-**Other:** 20
+**Other:** 22
 **Known settlements:** 1 founding settlement
 **Housing:** 24 basic dwellings plus household livestock pens
 **Notable people:** None recorded
+**Recent population change:** 2 births recorded during the current period
 
 ## Economy
 
 **Treasury:** 620 units
-**Food reserves:** 860 units
+**Food reserves:** 1,060 units
 **Wood reserves:** 55 units
 **Stone reserves:** 150 units
 **Metal reserves:** 45 units
-**Water reserves:** 900 units
+**Water reserves:** 730 units
 **Known industries:** Subsistence agriculture, construction, emerging livestock husbandry, timber working
 **Trade:** None established
 **Debt:** 0
@@ -61,15 +62,15 @@
 **Religion / belief systems:** Not yet established
 **Languages:** Not yet established
 **Social structure:** Early village community organized around households and shared agricultural work
-**Happiness / stability:** 77 / 100
+**Happiness / stability:** 78 / 100
 
 ## Agriculture & Livestock
 
 **Prepared/cultivated farmland:** ~0.8 km²
-**First cultivated fields:** First harvest has begun and early yields are being stored
+**First cultivated fields:** Harvest production is continuing and food stores are increasing
 **Household gardens:** Fruit plants and useful edible plants are being propagated in household lawns where suitable
 **Livestock housing:** Household-adjacent pens constructed
-**Domesticated livestock:** Initial breeding stock established; herd still small
+**Domesticated livestock:** Initial breeding stock established; herd still small but reproducing
 **Wild game:** Hunting and animal observation continue
 **Current strategy:** Increase dependable food production while reducing the amount of time households need to spend gathering food
 
@@ -79,23 +80,33 @@
 **Fence coverage:** Approximately 0.7 km around the most densely occupied part of the settlement; not a territorial border
 **Road network:** Simple dirt paths established between the main settlement, fields, livestock areas, and major household clusters
 **Road status:** Basic network usable in dry conditions; paths will become muddy or damaged during heavy rain
-**Construction workforce:** Workers returned to general construction after completing the main road layout
+**Construction workforce:** Workers remain available for general construction, with 2 currently away on a search expedition
+
+## Exploration & Search
+
+**Primary exploration party:** 5 former militia explorers remain away from the village
+**Search party:** 2 workers have departed to follow the explorers' known route and determine their location and condition
+**Known result by Day 105:** The search party located signs of the explorers and established visual contact with them near a freshwater stream north of the previously surveyed area. All 5 explorers are alive and continuing their survey.
+**Surveyed area:** Still ~2.1 km² officially recorded; the new northern observations have not yet been fully mapped and incorporated into the survey record
+**External powers:** No organized external power confirmed
 
 ## Geography & Environment
 
-The explorers have surveyed approximately 2.1 km² of the surrounding area. The wider territory remains only partially known. No organized external power has yet been confirmed.
+The explorers have surveyed approximately 2.1 km² of the surrounding area. The search party's new observations indicate a freshwater stream north of the current mapped zone. The wider territory remains only partially known. No organized external power has yet been confirmed.
 
 ## Government Priorities
 
-No formal government has been established. Current communal priorities are food security, household agriculture and livestock, exploration, village defense, and basic infrastructure connecting the settlement.
+No formal government has been established. Current communal priorities are food security, household agriculture and livestock, exploration, village defense, basic infrastructure, and maintaining contact with the exploration party.
 
 ## Active Situations
 
 - Five explorers remain away surveying the surrounding territory.
-- The village is returning to normal agricultural production after the fence project.
-- First harvest is beginning to provide fresh food and seed material.
+- Two workers are temporarily away confirming and supporting the explorers' location.
+- The village continues normal agricultural production.
 - Household fruit cultivation is being tested as a long-term food source.
-- Basic dirt roads now establish recognizable routes through the village.
+- Livestock breeding is beginning to supplement the food supply.
+- The first two recorded births have increased the population to 102.
+- The village remains protected by its core log fence and five active defenders.
 
 ## Recent Events
 
@@ -112,8 +123,13 @@ No formal government has been established. Current communal priorities are food 
 - Days 73–82: The remaining fence sections were completed while the explorers continued their survey.
 - Days 73–88: Sixty farmers returned to full agricultural work, expanded cultivation, and began propagating useful fruit plants in household lawns.
 - Days 73–88: Workers established simple dirt roads linking the village's main residential, agricultural, and livestock areas.
-- Day 88: The village now has its first recognizable internal road network and a more diversified food-production system.
+- Day 88: The village had its first recognizable internal road network and a more diversified food-production system.
+- Days 89–96: Normal farming, livestock care, household gardening, and village routines continued while the exploration party remained away.
+- Days 97–103: Two workers followed the explorers' known route to locate them and confirm their condition.
+- Day 104: The search party found clear signs of the explorers near a freshwater stream north of the current surveyed zone.
+- Day 105: The two workers established visual contact with all five explorers. The entire exploration party is confirmed alive, and the northern stream becomes the first newly reported geographic feature from the search.
+- Days 89–105: Two births were recorded, bringing the population from 100 to 102.
 
 ## Simulation Notes
 
-This document represents the current known state, not an omniscient description of everything happening in the world. Unknown information may be discovered later. Numerical values are simulation values and may change through decisions, consumption, production, disasters, trade, growth, conflict, and other events.
+This document represents the current known state, not an omniscient description of everything happening in the world. Unknown information may be discovered later. Population growth is allowed and occurs naturally through births, deaths, migration, and other demographic factors; there is no rule preventing families from having children. Numerical values are simulation values and may change through decisions, consumption, production, disasters, trade, growth, conflict, and other events.
