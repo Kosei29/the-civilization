@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>The Civilization — Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><div class="crest">✦</div><div><h1 id="civilizationName">The Civilization</h1><p>A living world, recorded through time.</p></div></div>
+    <div class="era"><strong id="yearDay">Year 1 · Day 1</strong><span id="season">Spring</span></div>
+    <div class="quote">The world continues.</div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" aria-label="Dashboard navigation">
+      <button class="nav active" data-section="overview">⌂ <span>Overview</span></button>
+      <button class="nav" data-section="map">▦ <span>Map</span></button>
+      <button class="nav" data-section="people">♟ <span>People</span></button>
+      <button class="nav" data-section="resources">◈ <span>Resources</span></button>
+      <button class="nav" data-section="economy">¤ <span>Economy</span></button>
+      <button class="nav" data-section="military">⚔ <span>Military</span></button>
+      <button class="nav" data-section="government">▤ <span>Government</span></button>
+      <button class="nav" data-section="history">◷ <span>History</span></button>
+      <button class="nav" data-section="reports">▣ <span>Reports</span></button>
+    </nav>
+
+    <main>
+      <section id="overview" class="section active">
+        <div class="section-title"><div><p class="eyebrow">CURRENT STATE</p><h2>Overview</h2></div><span class="status">LIVE WORLD</span></div>
+        <div class="hero-grid">
+          <div class="panel map-panel"><div class="panel-head"><h3>The Land</h3><button class="small-btn" data-section-jump="map">Open map →</button></div><canvas id="terrain" width="720" height="440" aria-label="Pixel terrain map"></canvas><div class="legend"><span><i class="plain"></i>Plains</span><span><i class="forest"></i>Forest</span><span><i class="mountain"></i>Mountain</span><span><i class="water"></i>Water</span><span><i class="desert"></i>Drylands</span></div></div>
+          <div class="panel"><div class="panel-head"><h3>Nation Overview</h3></div><div class="stat-list" id="nationStats"></div></div>
+        </div>
+        <div class="cards-grid four" id="summaryCards"></div>
+        <div class="lower-grid">
+          <div class="panel"><div class="panel-head"><h3>Recent Events</h3></div><div id="events"></div></div>
+          <div class="panel"><div class="panel-head"><h3>Key Locations</h3></div><div id="locations"></div></div>
+          <div class="panel"><div class="panel-head"><h3>Latest Reports</h3></div><div id="reportsPreview"></div></div>
+        </div>
+      </section>
+
+      <section id="map" class="section"><div class="section-title"><div><p class="eyebrow">GEOGRAPHY</p><h2>World Map</h2></div></div><div class="panel map-large"><canvas id="terrainLarge" width="1100" height="650"></canvas><div class="map-note">This is the civilization's current cartographic model. Unexplored areas remain unknown rather than being silently invented.</div></div></section>
+
+      <section id="people" class="section"><div class="section-title"><div><p class="eyebrow">SOCIETY</p><h2>People</h2></div></div><div class="cards-grid four" id="peopleCards"></div><div class="panel"><div class="panel-head"><h3>Notable People</h3></div><div id="peopleList"></div></div></section>
+
+      <section id="resources" class="section"><div class="section-title"><div><p class="eyebrow">NATURAL WEALTH</p><h2>Resources</h2></div></div><div class="cards-grid four" id="resourceCards"></div><div class="panel"><div class="panel-head"><h3>Known Resource Areas</h3></div><div id="resourceAreas"></div></div></section>
+
+      <section id="economy" class="section"><div class="section-title"><div><p class="eyebrow">PRODUCTION & TRADE</p><h2>Economy</h2></div></div><div class="cards-grid four" id="economyCards"></div><div class="panel"><div class="empty">Economic institutions have not yet been established.</div></div></section>
+      <section id="military" class="section"><div class="section-title"><div><p class="eyebrow">DEFENSE</p><h2>Military</h2></div></div><div class="cards-grid four" id="militaryCards"></div><div class="panel"><div class="empty">No organized military has been recorded.</div></div></section>
+      <section id="government" class="section"><div class="section-title"><div><p class="eyebrow">STATE</p><h2>Government</h2></div></div><div class="cards-grid four" id="governmentCards"></div><div class="panel"><div class="empty">No formal government or laws have been established.</div></div></section>
+
+      <section id="history" class="section"><div class="section-title"><div><p class="eyebrow">THE RECORD</p><h2>History</h2></div></div><div class="panel timeline" id="historyList"></div></section>
+      <section id="reports" class="section"><div class="section-title"><div><p class="eyebrow">INTELLIGENCE</p><h2>Reports</h2></div></div><div class="reports-grid" id="reportsList"></div></section>
+    </main>
+  </div>
+  <footer>THE CIVILIZATION · Year 1 · Day 1 · History is persistent.</footer>
+  <script src="data.js"></script><script src="app.js"></script>
+</body>
+</html>
