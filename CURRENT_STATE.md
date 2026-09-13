@@ -1,7 +1,7 @@
 # Current State
 
 ## Date
-**Year 1 — Day 22**
+**Year 1 — Day 45**
 
 ## Civilization
 
@@ -22,22 +22,22 @@
 
 **Population:** 100
 **Farmers:** 65
-**Workers:** 20
+**Workers:** 15
 **Soldiers:** 10
-**Other:** 5
+**Other:** 10
 **Known settlements:** 1 founding settlement
-**Housing:** 24 basic dwellings completed; additional structures under development
+**Housing:** 24 basic dwellings plus household livestock pens
 **Notable people:** None recorded
 
 ## Economy
 
-**Treasury:** 860 units
-**Food reserves:** 900 units
-**Wood reserves:** 500 units
-**Stone reserves:** 280 units
-**Metal reserves:** 60 units
-**Water reserves:** 1,700 units
-**Known industries:** Subsistence agriculture and basic construction
+**Treasury:** 690 units
+**Food reserves:** 820 units
+**Wood reserves:** 350 units
+**Stone reserves:** 190 units
+**Metal reserves:** 45 units
+**Water reserves:** 1,350 units
+**Known industries:** Subsistence agriculture, construction, emerging livestock husbandry
 **Trade:** None established
 **Debt:** 0
 
@@ -51,36 +51,50 @@
 
 **Technological era:** Foundational
 **Known major discoveries:** None recorded
-**Agricultural knowledge:** Basic land cultivation and planting practices established
+**Agricultural knowledge:** Basic land cultivation, planting, animal selection, and early domestication practices
 
 ## Society & Culture
 
 **Religion / belief systems:** Not yet established
 **Languages:** Not yet established
-**Social structure:** Early settlement community
-**Happiness / stability:** 68 / 100
+**Social structure:** Early village community organized around households and shared agricultural work
+**Happiness / stability:** 76 / 100
+
+## Agriculture & Livestock
+
+**Prepared farmland:** ~0.6 km²
+**First cultivated fields:** Planted; first harvest pending
+**Livestock housing:** Household-adjacent pens constructed
+**Domesticated livestock:** Initial breeding stock established
+**Wild game:** Hunting parties have identified and captured suitable animals for meat and breeding
+**Current strategy:** Gradually replace some hunting with dependable household livestock while maintaining agriculture
 
 ## Geography & Environment
 
-The surrounding territory remains formally unsurveyed. Over the first three weeks, the population cleared and prepared approximately 0.6 km² of nearby land for agriculture. The founding settlement has begun developing into a permanent village, with basic dwellings constructed near the cultivated area.
+The surrounding territory remains formally unsurveyed. The civilization's provisional territory is approximately 4 km² with an estimated 8 km perimeter. Only a small portion has been deliberately transformed for agriculture and settlement.
 
 ## Government Priorities
 
-No formal policies have been enacted. Current de facto priority is food security and permanent habitation.
+No formal government has been established. Current communal priority is food security, permanent housing, animal husbandry, and reducing unnecessary daily labor so households have more time for family life.
 
 ## Active Situations
 
-- Agricultural plots are newly prepared and require planting and continued labor.
-- Housing construction is continuing.
-- The surrounding territory remains unknown beyond the immediate working area.
+- First livestock breeding program underway.
+- First agricultural harvest approaching.
+- Wild animal populations around the settlement are being observed to avoid overhunting.
+- Household labor patterns are shifting toward shorter routine work and more family time.
 
 ## Recent Events
 
 - Days 2–15: Land was cleared and prepared for cultivation.
 - Days 5–20: Basic dwellings were constructed around the founding settlement.
 - Day 21: First organized agricultural plots were ready for planting.
-- Day 22: The settlement is transitioning from a temporary camp into a permanent village.
+- Day 22: The settlement began transitioning from a temporary camp into a permanent village.
+- Days 23–38: Household livestock pens were constructed beside dwellings.
+- Days 25–41: Hunting parties searched for animals suitable for both meat and breeding.
+- Days 32–44: Initial breeding stock was brought into managed household pens.
+- Day 45: The community has begun shifting toward a mixed farming-and-livestock economy intended to improve food security and reduce daily subsistence pressure.
 
 ## Simulation Notes
 
-This document represents the current known state, not an omniscient description of everything happening in the world. Unknown information may be discovered later. Numerical values are simulation values and may change through decisions, consumption, production, disasters, trade, growth, and other events.
+This document represents the current known state, not an omniscient description of everything happening in the world. Unknown information may be discovered later. Numerical values are simulation values and may change through decisions, consumption, production, disasters, trade, growth, conflict, and other events.
